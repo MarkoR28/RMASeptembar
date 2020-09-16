@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pizzaSizes">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Party</item>
+    </string-array>
+    <string-array name="pizzaCrusts">
+        <item>Thin</item>
+        <item>Thick</item>
+        <item>Deep Dish</item>
+        <item>Stuffed Crust</item>
+    </string-array>
+</resources>
