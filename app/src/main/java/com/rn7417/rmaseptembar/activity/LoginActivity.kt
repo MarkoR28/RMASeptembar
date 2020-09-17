@@ -34,12 +34,12 @@ class LoginActivity : AppCompatActivity(R.layout.activity_login) {
                     val intent = Intent(this, MainActivity::class.java)
                     startActivity(intent)
                 } else {
-                    MESSAGE = "Neispravan unos"
+                    MESSAGE = "Wrong input"
                     popupToast()
                 }
             }
             else {
-                MESSAGE = "Neispravan unos"
+                MESSAGE = "Wrong input"
                 popupToast()
             }
         }

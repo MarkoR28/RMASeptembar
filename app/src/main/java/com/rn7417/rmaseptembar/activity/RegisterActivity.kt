@@ -76,7 +76,7 @@ class RegisterActivity : AppCompatActivity(R.layout.activity_register) {
 
             }
             else {
-                MESSAGE = "Neispravan unos!"
+                MESSAGE = "Wrong input!"
                 popupToast()
             }
         }
